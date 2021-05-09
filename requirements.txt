@@ -2,7 +2,5 @@ numpy
 matplotlib
 pandas
 scipy
-fractions
-timeit
 ipywidgets
 requests
