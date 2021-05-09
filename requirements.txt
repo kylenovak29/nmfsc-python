@@ -4,4 +4,4 @@ pandas
 scipy
 ipywidgets
 requests
-PIL
+pillow
